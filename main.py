@@ -1,3 +1,4 @@
 class init:
-    print("Hahahahaha")
+    print("Hahahahaha") #comment
+    print("Segue em frente!")
     pass
