@@ -22,5 +22,5 @@ def gera_imc():
     # Escrevendo o resultado, conforme a coleta e apuração das informações
     print ("Seu IMC (Índice de massa corporal) é: %s " % calcula_imc(altura,peso))
 
-# Chamada do método final que conforme o nome gera o LMC! :D 
+# Chamada do método final que conforme o nome gera o LMC! :D
 gera_imc()
